@@ -1,2 +1,0 @@
-# Wazure
-by tuhzu

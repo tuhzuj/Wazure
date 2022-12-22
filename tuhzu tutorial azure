@@ -1,0 +1,116 @@
+Lần cuối cập nhật 12/22/2022 (dd/mm/yyyy)
+
+***Lưu ý:
+- Đây là hướng dẫn cho bọn mới sài wazure, nếu mày là mem cũ, có thể bỏ qua hoặc vẫn xem để mở mang kiến thức
+- Wazure luôn cập nhật 
+Hầu hết bọn m mua wazure là vì auto bounty nên t sẽ hướng dẫn nó trước:
+- Đầu tiên mày khi đã mua sẽ có 1 key ngẫu nhiên  
+"Ví dụ:51c3d67eaade8ad61b81447dc1217a26b872ff2e ( đây là key 1 thằng đã bị blacklist)"
+     
+ Script ở đâu?
+
+   ![alt text](https://media.discordapp.net/attachments/1049375449693835334/1055499197178204210/image.png?width=184&height=31)
+  
+(Tao không nghĩ tao phải nói cho mày cái này)
+
+SCRIPT có 5 mục:
+
+I. Important (Mustread): 
+
+II. MISC
+ 
+Đây là một thứ dùng để sài mirage, nó theo trình tự như sau:
+
+1. Vào script -> Misc -> Đọc important (Nhớ lắp key vào thằng đần)
+
+2. Exe ra nó sẽ hiện cái UI như này (CHỈ CẦN BẤM RIGHT CTRL VÀ NÓ SẼ OPEN UI)
+
+3. Vào #mirage-notifier để lấy code , dán vào textbox , bật auto join server lên ( Sever full nó sẽ báo, server còn nó sẽ tự vào , tao đéo nghĩ là tao phải còn nói cái này cho tụi mày )
+
+4. Sau khi vào thì script sẽ tự động exe cho mày và mày có 3 phút để làm quest, hoặc vào mirage để mua stock , bị kick rồi còn cố vào lại = blacklisted
+
+5. Good luck
+
+Bonus: Remove Fog tắt sương, TP to gear để làm quest v4 
+
+3. Auto Bounty
+ Đây là thứ nhiều đứa sài wazu sài nhất,1 tính năng giúp tay mày cụt nhưng bounty m tăng vụt
+ Lắp key vào , và mày cần 1 config để săn nhanh hơn
+ 
+![alt text](https://media.discordapp.net/attachments/1049375449693835334/1055501966438051860/image.png?width=310&height=168)
+
+Tuhzu Market: https://discord.gg/kaZRx3aFdF
+
+4. Show items
+
+![alt](https://media.discordapp.net/attachments/1050462456310399036/1055483875113050243/image.png?width=782&height=427)
+
+5. Pvp
+- Aim script
+Preview:
+ 
+ (in tet)
+ 
+5. Main
+
+ Script farm chính,hay bị lỗi bug lặt vặt nhưng auto sea beast ngon vcl
+ 
+Features:
+ 
++Auto Farm:
+
+ -Auto farm aura/smart/true
+ 
+-Bring Radius
+ 
+-Fast Method
+ 
++Auto Chest
+ 
++Sea Farming
+
+ +Material Farming
+
+ +Ability Farming
+
+ +Boss Farming
+
+ +Items Farming
+ +More.....
+
+6. One click auto farm
+ 
+-Như cái tên
+
+7. CONFIG MARKET 
+
+https://discord.gg/d5vYQ5FsJZ by Tuhzu
+
+Bonus:
+ 
+-Reset hwid là gì?:
+
+ + Khi mày đổi thiết bị, đổi executor(là từ krnl qua synx), cài lại máy thì mày phải cần reset hwid
+
++ Chưa rehwid mà exe = blacklisted
+
+-Webhook là gì?:
+
+ + 1 thứ để mày có thể biết khi m kill đc ai thông qua discord
+
+Setup đơn giản thôi:
+
+ + Đầu tiên tạo 1 sever chỉ có mình m, vào phần cài đặt,tích hợp rồi tạo 1 con bot, sao chép link của nó, exe autobounty vào webhook copy link đó vào
+
+ + Vậy là xong 
+
+-Reset thời gian + bounty trong auto bounty?:
+
++ Vào file executor -> W-azure-> Xóa pdf Auto Bounty
+ 
+
+Nếu có idea gì thì ib t để t add vào đây
+ty :heart:
+
+
+Được làm bởi Tuhzu#5891 
